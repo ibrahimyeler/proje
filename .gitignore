@@ -1,0 +1,9 @@
+#IDE -VScode
+#img
+*.jpg
+*.png
+img/
+#videos
+#packages
+#log
+password.txt
